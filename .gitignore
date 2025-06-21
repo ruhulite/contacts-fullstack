@@ -1,3 +1,5 @@
 /backend/node-modules
 /backend/.env
 /backend/credentials.js
+
+/frontend/node-modules
