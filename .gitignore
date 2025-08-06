@@ -1,5 +1,14 @@
 /frontend/node-modules
 
-/backend/node-modules
-/backend/.env
-/backend/credentials.js
+backend/logs
+backend/*.log
+backend/npm-debug.log*
+backend/yarn-debug.log*
+backend/yarn-error.log*
+backend/pnpm-debug.log*
+backend/lerna-debug.log*
+
+backend/node_modules
+backend/dist
+backend/dist-ssr
+backend/*.loca
